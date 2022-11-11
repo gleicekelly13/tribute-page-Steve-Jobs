@@ -1,1 +1,4 @@
-<h1 align="center">tribute-page-Steve-Jobs</h1>
+<h1 align="center">Tribute Page Steve Jobs</h1>
+<br>
+
+## :desktop_computer: Desktop design

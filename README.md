@@ -31,3 +31,5 @@
 <br>
 
 # :sunglasses: Autora
+
+- GitHub - [GleiceKelly](https://github.com/gleicekelly13)

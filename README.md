@@ -24,6 +24,7 @@
 <h2 align="center"> :dart: Objetivo de aprendizado/O que aprendi </h2>
 <p>Praticar estrutura de site.</p>
 <p>Criação de timeline, utilizando listas.</p>
+<p>Utilização do elemento `figcaption`.</p>
 
 <h2 align="center"> :file_folder: Acesso ao projeto </h2>
 <p> Você pode acessar o projeto final clicando aqui: https://gleicekelly13.github.io/tribute-page-Steve-Jobs/ </p>

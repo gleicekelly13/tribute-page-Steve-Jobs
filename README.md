@@ -26,6 +26,7 @@
 <p>Criação de timeline, utilizando listas.</p>
 <p>Utilização do elemento `figcaption`.</p>
 <p>Criação de links.</p>
+<br>
 
 <h2 align="center"> :file_folder: Acesso ao projeto </h2>
 <p> Você pode acessar o projeto final clicando aqui: https://gleicekelly13.github.io/tribute-page-Steve-Jobs/ </p>

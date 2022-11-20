@@ -12,7 +12,7 @@
 ## :iphone: Mobile design
 <br>
 <div align="center">
-<img src="https://user-images.githubusercontent.com/80974593/201979907-44b9b8e6-df10-4698-8367-ba3491b6dbb5.png" width="300">
+<img src="https://user-images.githubusercontent.com/80974593/202908978-61048f31-5222-43ef-bcf7-d1c5365995bf.png" width="300">
 </div>
 <br>
 

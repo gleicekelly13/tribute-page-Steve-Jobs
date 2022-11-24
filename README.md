@@ -1,5 +1,6 @@
 <h1 align="center">Tribute Page Steve Jobs</h1>
 <h2 align="center">:page_facing_up: Descrição do projeto</h2>
+<p>Página de tributo referente ao grande idealizador e magnata do ramo tecnológico, Steven Jobs.</p>
 <br>
 
 ## :desktop_computer: Desktop design

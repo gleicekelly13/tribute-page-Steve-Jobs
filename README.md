@@ -27,6 +27,7 @@
 <p>Criação de timeline, utilizando listas.</p>
 <p>Utilização do elemento `figcaption`.</p>
 <p>Criação de links.</p>
+<p>Praticar a aplicação de responsividade.</p>
 <br>
 
 <h2 align="center"> :file_folder: Acesso ao projeto </h2>
